@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="400" />
 </p>
 
 # Ryo | Network & Security Specialist  
@@ -45,7 +45,7 @@ With years of experience in **network security and ethical hacking**, I speciali
 Developed a **custom firewall** with **deep packet inspection, intrusion detection, and real-time monitoring**.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/j2pWZpr5RlpCodOPZT/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="350"/>
 </p>
 
 ### 🕵️ Cyber Threat Intelligence Platform  
@@ -65,17 +65,17 @@ I actively contribute to the **cybersecurity community**, publish research on se
 🔗 [Threat Hunting with AI & Machine Learning](#)  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" width="400"/>
 </p>
 
 ---
 
 ## 📬 Get in Touch  
-📩 **Email:** your.email@example.com  
-💻 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-📖 **Blog & Research:** [yourwebsite.com](#)  
+📩 **Email:** sallyface0027@gmail.com  
+💻 **GitHub:** [github.com/yourusername](https://github.com/Corawl13)  
+  
 
 > _"Security is not a product, but a process."_ – Bruce Schneier  
 
 ---
+
