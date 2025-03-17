@@ -1,6 +1,6 @@
 <!-- Background Styling -->
 <p align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s3eWxkOGQ4NGFhYTRrZ2IzOTR6dXZqbGd5YmRlbWxvdjl4YzZrMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j0iH7veExdr6I/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="400" />
 </p>
 
 # 🛡️ Ryo | Network & Security Specialist  
@@ -47,7 +47,7 @@ With extensive experience in **network security and ethical hacking**, I ensure 
 Developed a **custom firewall** with **deep packet inspection, intrusion detection, and real-time monitoring**.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJvb2xkY2Ezb2c2bjdzOGM1cGN5Y3ByMzQzdzZtdndpa2V4cXpxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="400"/>
 </p>
 
 ### 🕵️ Cyber Threat Intelligence Platform  
@@ -67,16 +67,17 @@ I actively contribute to the **cybersecurity community**, publish research on se
 🔗 [Threat Hunting with AI & Machine Learning](#)  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dxN2FnbjRtdXh1bW8ycWVrbnNwOHltcmcxc3Nsa3g1ZmptcWFodyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ov9jNziFTMfzSumAw/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="400"/>
 </p>
 
 ---
 
 ## 📬 Get in Touch  
-📩 **Email:** sallyface0027@gmail.com  
-💻 **GitHub:** [github.com/yourusername](https://github.com/Corawl13)  
+📩 **Email:** your.email@example.com  
+💻 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+📖 **Blog & Research:** [yourwebsite.com](#)  
 
 > _"Security is not a product, but a process."_ – Bruce Schneier  
 
 ---
-
